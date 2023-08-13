@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #064206;
+    color: whitesmoke;
+}
+.content{
+    text-align: center;
+}
+
+h1{
+    color:goldenrod;
+    margin-bottom: 8px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+button{
+    display:inline;
+ width: 6rem;
+ height: fit-content;
+ padding-top:4px;
+ padding-bottom: 4px;
+ border-radius: 16px;
+ border:none;
+ color:#064206;
+ background-color:goldenrod;
+}
